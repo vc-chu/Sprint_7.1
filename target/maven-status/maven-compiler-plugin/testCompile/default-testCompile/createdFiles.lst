@@ -1,0 +1,13 @@
+ru\yandex\scooter\model\ErrorResponse.class
+ru\yandex\scooter\model\CourierCredentials.class
+ru\yandex\scooter\tests\CreateOrderTest.class
+ru\yandex\scooter\config\ApiConfig.class
+ru\yandex\scooter\tests\CreateCourierTest.class
+ru\yandex\scooter\tests\OrderListTest.class
+ru\yandex\scooter\tests\BaseTest.class
+ru\yandex\scooter\tests\LoginCourierTest.class
+ru\yandex\scooter\model\Courier.class
+ru\yandex\scooter\client\OrderClient.class
+ru\yandex\scooter\client\CourierClient.class
+ru\yandex\scooter\data\TestData.class
+ru\yandex\scooter\model\Order.class
